@@ -1,8 +1,9 @@
 node_modules/
-build/
 dist/
+*.tsbuildinfo
+.env
+*.db
+*.db-journal
+server/uploads/*
+!server/uploads/.gitkeep
 coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
