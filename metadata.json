@@ -1,0 +1,8 @@
+{
+  "name": "Ledgerline",
+  "description": "Personal budget tracking and spending analytics with interactive visualizations and custom categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
